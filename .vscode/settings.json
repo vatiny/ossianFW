@@ -1,0 +1,22 @@
+{
+  "editor.fontSize": 22,
+  "files.autoSave": "afterDelay",
+  "editor.tabSize": 2,
+  "editor.fontFamily": "'Source Code Pro', Monaco, Consolas, 'Courier New', monospace",
+  "editor.renderWhitespace": "boundary",
+  "files.defaultLanguage": "html",
+  "markdown.preview.fontSize": 20,
+  "markdown.preview.lineHeight": 1.75,
+  "editor.minimap.enabled": false,
+  "emmet.variables": {
+    "lang": "zh-TW"
+  },
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "/assets/css",
+      "savePathReplacementPairs": null
+    }
+  ]
+}
