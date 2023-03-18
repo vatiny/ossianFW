@@ -2,10 +2,10 @@
   "editor.fontSize": 22,
   "files.autoSave": "afterDelay",
   "editor.tabSize": 2,
-  "editor.fontFamily": "'Source Code Pro', Monaco, Consolas, 'Courier New', monospace",
+  "editor.fontFamily": "'Source Code Pro', 'SauceCodePro Nerd Font Mono', Monaco, Consolas, 'Courier New', monospace",
   "editor.renderWhitespace": "boundary",
   "files.defaultLanguage": "html",
-  "markdown.preview.fontSize": 20,
+  "markdown.preview.fontSize": 22,
   "markdown.preview.lineHeight": 1.75,
   "editor.minimap.enabled": false,
   "emmet.variables": {
@@ -18,5 +18,9 @@
       "savePath": "/assets/css",
       "savePathReplacementPairs": null
     }
-  ]
+  ],
+  "terminal.integrated.fontSize": 20,
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "terminal.integrated.fontFamily": "SauceCodePro Nerd Font Mono",
+  "terminal.integrated.cursorBlinking": true
 }
